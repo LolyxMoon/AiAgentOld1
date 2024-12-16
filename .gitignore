@@ -1,51 +1,18 @@
-node_modules
-/out
+# Dependencies
+/node_modules
 
-.env
-.env.production
-concatenated-output.ts
-embedding-cache.json
-packages/plugin-buttplug/intiface-engine
+# Production
+/build
 
+# Generated files
+.docusaurus
+.cache-loader
+
+# Misc
 .DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
-dist/
-# Allow models directory but ignore model files
-models/*.gguf
-
-cookies.json
-
-db.sqlite
-searches/
-tweets/
-
-*.gguf
-*.onnx
-*.wav
-*.mp3
-
-logs/
-
-test-report.json
-content_cache/
-test_data/
-tokencache/
-tweetcache/
-twitter_cookies.json
-timeline_cache.json
-
-*.sqlite
-
-characters/
-
-packages/core/src/providers/cache
-packages/core/src/providers/cache/*
-cache/*
-packages/plugin-coinbase/src/plugins/transactions.csv
-packages/plugin-coinbase/package-lock.json
-
-tsup.config.bundled_*.mjs
-
-.turbo
-
-coverage
+npm-debug.log*
