@@ -1,8 +1,8 @@
 # Sofia - Multi-agent simulation framework
 
-# [https://github.com/ai16z/eliza](https://x.com/Sofiaai16z)
+# [Sofia Twitter](https://x.com/Sofiaai16z)
 
-# Visit[ https://eliza.builders](https://x.com/wiplola) for support
+# Visit[DEV  SOFIA](https://x.com/wiplola) for support
 
 # dev branch
 
