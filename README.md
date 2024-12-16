@@ -2,13 +2,12 @@
 
 # [Sofia Twitter](https://x.com/Sofiaai16z)
 
-# Visit[DEV  SOFIA](https://x.com/wiplola) for support
+# Visit[dev](https://x.com/wiplola) for support
 ![zB_Cv8UQ_400x400](https://github.com/user-attachments/assets/db882f63-f2a7-45f3-917d-70cd37850c0f)
 
 
-# dev branch
+![1500x500](https://github.com/user-attachments/assets/a8e5f224-0f21-4adc-bce2-ab4a0fe0526f)
 
-<img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
 
 _As seen powering [@DegenSpartanAI](https://x.com/degenspartanai) and [@MarcAIndreessen](https://x.com/pmairca)_
 
