@@ -1,9 +1,8 @@
-# Sofia - Multi-agent simulation framework
+ - Multi-agent simulation framework
 
-# [Sofia Twitter](https://x.com/Sofiaai16z)
 
-# Visit[dev](https://x.com/wiplola) for support
-![zB_Cv8UQ_400x400](https://github.com/user-attachments/assets/db882f63-f2a7-45f3-917d-70cd37850c0f)
+
+
 
 
 ![1500x500](https://github.com/user-attachments/assets/a8e5f224-0f21-4adc-bce2-ab4a0fe0526f)
